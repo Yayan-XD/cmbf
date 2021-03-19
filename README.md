@@ -58,7 +58,7 @@ $ python2 cmbf.py
 * Dump id from link post
 ````
 * Mutli type login :
- - cookis
+ - [Cookis](https://youtu.be/72zvkSbVPOI)
  - [Token](https://youtu.be/hQ-lYxozghU)
 
 
