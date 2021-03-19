@@ -37,11 +37,11 @@
 
 ## Install script on Termux
 ```bash
-$ pkg update && pkg upgrade
-$ pkg install python2
+$ apt update && apt upgrade
+$ apt install python2
 $ pip2 install mechanize
 $ pip2 install requests bs4
-$ pkg install git
+$ apt install git
 $ rm -rf cmbf
 $ git clone https://github.com/Yayan-XD/cmbf
 ```
