@@ -29,7 +29,7 @@
   </a>
 
 <a href="https://github.com/Yayan-XD/cmbf">
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Yayan-XD/H4CK.svg"/> <a href="https://github.com/Yayan-XD/H4CK">
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Yayan-XD/cmbf.svg"/> <a href="https://github.com/Yayan-XD/cmbf">
     <img alt="Forks" src="https://img.shields.io/github/forks/Yayan-XD/cmbf.svg"/>
   </a>
 </div>
