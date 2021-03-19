@@ -47,8 +47,8 @@ $ git clone https://github.com/Yayan-XD/cmbf
 ```
 ## Run script
 ```bash
-> cd cmbf
-> python2 cmbf.py
+$ cd cmbf
+$ python2 cmbf.py
 ```
 ## Informasi For Updates Script
 ```
