@@ -51,11 +51,12 @@ $ git clone https://github.com/Yayan-XD/cmbf
 > python2 cmbf.py
 ```
 ## Informasi For Updates Script
+```
 * Dump id from friends
 * Dump id from friends public
 * Dump id from total followers
 * Dump id from link post
-
+````
 * Mutli type login :
  - cookis
  - [Token](https://youtu.be/hQ-lYxozghU)
