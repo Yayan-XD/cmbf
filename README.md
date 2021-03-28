@@ -8,7 +8,7 @@
 <p align="center">
  <img src="https://github.com/Yayan-XD/cmbf/blob/main/img/IMG_20210328_191052.jpg" width="640" title="Menu" alt="Menu">
 </p>
-<img src="https://github.com/Yayan-XD/cmbf/blob/main/img/PicsArt_03-28-05.46.54.jpg" width="640" title="Menu" alt="Menu">
+<img src="https://github.com/Yayan-XD/cmbf/blob/main/img/IMG_20210328_191109.jpg" width="640" title="Menu" alt="Menu">
 </p>
 
 <a href="https://github.com/Yayan-XD/followers">
