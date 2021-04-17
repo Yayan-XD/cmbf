@@ -39,7 +39,7 @@
 </div>
 <p align="center">
 
-## Install script on Termux
+#### Install script on Termux
 ```bash
 $ apt update && apt upgrade
 $ apt install python2
@@ -49,12 +49,12 @@ $ apt install git
 $ rm -rf cmbf
 $ git clone https://github.com/Yayan-XD/cmbf
 ```
-## Run script
+#### Run script
 ```bash
 $ cd cmbf
 $ python2 cmbf.py
 ```
-## Informasi For Updates Script
+#### Informasi For Updates Script
 ```
 * Dump id dari teman
 * Dump id dari teman publik
