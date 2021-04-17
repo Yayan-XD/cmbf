@@ -5,6 +5,8 @@
 <p align="center">
   Made with ❤️ by <a href="https://www.facebook.com/KM39453">YayanXD_</a>
 </p>
+### Screenshot
+#### notice me: jika mendapatkan hasil cp, simpan 3/7hari lalu loginkan.
 <p align="center">
  <img src="https://github.com/Yayan-XD/cmbf/blob/main/img/IMG_20210328_191052.jpg" width="640" title="Menu" alt="Menu">
 </p>
