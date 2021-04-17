@@ -8,7 +8,7 @@
 <p align="center">
 
 ### Screenshot
- <img src="https://github.com/Yayan-XD/cmbf/blob/main/img/IMG_20210417_234942.jpg" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/Yayan-XD/cmbf/blob/main/img/Screenshot_2021_0417_235745.jpg" width="640" title="Menu" alt="Menu">
 </p>
 
 ###### notice me: jika mendapatkan hasil cp, simpan 3/7hari lalu loginkan.
