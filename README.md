@@ -8,11 +8,9 @@
 <p align="center">
 
 ### Screenshot
-###### notice me: jika mendapatkan hasil cp, simpan 3/7hari lalu loginkan.
  <img src="https://github.com/Yayan-XD/cmbf/blob/main/img/IMG_20210328_191052.jpg" width="640" title="Menu" alt="Menu">
 </p>
-<img src="https://github.com/Yayan-XD/cmbf/blob/main/img/IMG_20210328_191109.jpg" width="640" title="Menu" alt="Menu">
-</p>
+###### notice me: jika mendapatkan hasil cp, simpan 3/7hari lalu loginkan.
 
 <a href="https://github.com/Yayan-XD/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/Yayan-XD?label=Followers&color=blue&style=flat-square"></a>
