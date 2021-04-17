@@ -8,8 +8,7 @@
 <p align="center">
 
 ### Screenshot
-#### notice me: jika mendapatkan hasil cp, simpan 3/7hari lalu loginkan.
-
+###### notice me: jika mendapatkan hasil cp, simpan 3/7hari lalu loginkan.
  <img src="https://github.com/Yayan-XD/cmbf/blob/main/img/IMG_20210328_191052.jpg" width="640" title="Menu" alt="Menu">
 </p>
 <img src="https://github.com/Yayan-XD/cmbf/blob/main/img/IMG_20210328_191109.jpg" width="640" title="Menu" alt="Menu">
