@@ -56,10 +56,10 @@ $ python2 cmbf.py
 ```
 ## Informasi For Updates Script
 ```
-* Dump id from friends
-* Dump id from friends public
-* Dump id from total followers
-* Dump id from link post
+* Dump id dari teman
+* Dump id dari teman publik
+* Dump id dari total followers
+* Dump id dari like postingan
 ````
 * Mutli type login :
  - [Cookis](https://youtu.be/72zvkSbVPOI)
