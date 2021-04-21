@@ -15,6 +15,8 @@
  <img src="https://github.com/Yayan-XD/cmbf/blob/main/img/Screenshot_2021_0417_235745.jpg" width="640" title="Menu" alt="Menu">
 </p>
 
+##### How to see ok/cp account results: [Check video](https://pixeldrain.com/u/oAgVoYVS)
+
 ###### notice me: if you get cp results, save 3/7 days then log in.
 <a href="https://github.com/Yayan-XD/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/Yayan-XD?label=Followers&color=blue&style=flat-square"></a>
@@ -57,8 +59,6 @@ $ git clone https://github.com/Yayan-XD/cmbf
 $ cd cmbf
 $ python2 cmbf.py
 ```
-##### Check Result [ok/cp](https://pixeldrain.com/u/oAgVoYVS)
-
 #### MY SOCIAL MEDIA
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Yayan-XD) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/moch_xd)
