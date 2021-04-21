@@ -57,7 +57,7 @@ $ git clone https://github.com/Yayan-XD/cmbf
 $ cd cmbf
 $ python2 cmbf.py
 ```
-##### [Check Result ok/cp]()
+##### Check Result [ok/cp](https://pixeldrain.com/u/oAgVoYVS)
 
 #### MY SOCIAL MEDIA
 
