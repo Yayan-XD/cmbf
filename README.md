@@ -2,7 +2,6 @@
   CMBF
 </h1>
 </div>
-   _Croot Multi Brute Facebook_
 <p align="center">
   Made with ❤️ by <a href="https://www.facebook.com/KM39453">YayanXD_</a>
 </p>
