@@ -8,7 +8,7 @@
 <p align="center">
 
 ### menu
- <img src="https://github.com/Yayan-XD/cmbf/blob/main/img/carbon.png" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/Yayan-XD/cmbf/blob/main/img/main_menu.png" width="640" title="Menu" alt="Menu">
 </p>
 
 #### Results
