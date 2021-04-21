@@ -3,12 +3,12 @@
 </h1>
 </div>
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/Yayan-XD/cmbf/blob/main/img/carbon.png">YayanXD_</a>
+  Made with ❤️ by <a href="https://www.facebook.com/KM39453">YayanXD_</a>
 </p>
 <p align="center">
 
 ### menu
- <img src="https://github.com/Yayan-XD/cmbf/blob/main/img/Screenshot_2021_0417_235745.jpg" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/Yayan-XD/cmbf/blob/main/img/carbon.png" width="640" title="Menu" alt="Menu">
 </p>
 
 #### Results
@@ -57,17 +57,7 @@ $ git clone https://github.com/Yayan-XD/cmbf
 $ cd cmbf
 $ python2 cmbf.py
 ```
-#### Informasi For Updates Script
-```
-* Dump id dari teman
-* Dump id dari teman publik
-* Dump id dari total followers
-* Dump id dari like postingan
-````
-* Mutli type login :
- - [Cookis](https://youtu.be/72zvkSbVPOI)
- - [Token](https://youtu.be/hQ-lYxozghU)
-
+##### [Check Result ok/cp]()
 
 #### MY SOCIAL MEDIA
 
